@@ -8,6 +8,7 @@ Mid Level Backend Developer, Entry Level Frontend Developer, Bitcoin Enthusiast
 <div id="webaddress">
     <a href="https://github.com/rainanDeveloper" target="_blank">Github</a>
     <a href="https://www.linkedin.com/in/rainanmjesus/" target="_blank">Linkedin</a>
+    <a href="https://rainandeveloper.github.io/cv/" target="_blank">Curriculum</a>
 </div>
 
 ## Personal info
