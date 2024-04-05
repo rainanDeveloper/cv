@@ -38,6 +38,10 @@ Seeking for a Mid-Level Backend Software Engineer position, preferably in Node.j
 
 Node.js backend development, Typescript, Linux
 
+### Tools
+
+Git, Jira, Github, Gitlab, Github Actions CI
+
 ### Programming Languages
 
 Javascript (Node.js), Typescript, Golang, C#, C, C++
