@@ -85,31 +85,31 @@ Times Idiomas - Advanced English Course
 
 ## Experience
 
-`2017 - 2018`
+`2017-2018`
 <a href="https://portal.ifba.edu.br/camacari" target="_blank">IFBA Campus Camaçari</a>
 
 - Intern: Responsible for the development of the IT Graduation Site
 - Skills: PHP programming language, HTML, CSS and Javascript
 
-`2018 - 2019`
+`2018-2019`
 <a href="http://clariontec.com.br" target="_blank">Clariontec Sistemas</a>
 
 - Intern: Responsible for the development of several applications (backend, frontend, desktop, etc).
 - Skills: PHP Programming language, HTML, CSS, Javascript, MySQL
 
-`2019 - 2021`
+`2019-2021`
 <a href="http://clariontec.com.br" target="_blank">Clariontec Sistemas</a>
 
 - Entry-Level FullStack Software Engineer: Responsible for the development of several applications (backend, frontend, desktop, etc).
 - Skills: PHP Programming Language, HTML, CSS, Javascript, Node.js, Axios, MySQL, C#, .Net, PostgreSQL, Docker.
 
-`Nov 2021 - Dec 2022`
+`2021-2022`
 <a href="https://www.linkedin.com/company/blockhub-builders" target="_blank">Blockhub Tecnologia</a>
 
 - Entry-Level Backend Software Engineer: Responsible for the Development of several API's
 - Skills: Node.js, Docker, MongoDB, Typescript, NestJS, Axios
 
-`Dec 2022 - April 2024`
+`2022-April`
 <a href="https://foursys.com.br/" target="_blank">Foursys</a>
 
 - Mid-Level Backend Software Engineer on Bradesco Bank's team: Responsible for the development of several API's.
