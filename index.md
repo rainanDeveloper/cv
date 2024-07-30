@@ -119,7 +119,6 @@ Times Idiomas - Advanced English Course
 <a href="http://naxtool.com.br" target="_blank">Naxtool Sistemas</a>
 
 - Tech Lead and Fullstack Software Engineer: Responsible for the development of the [Concilia Pix project](http://conciliapix.com/).
-
 - Skills: Node.js, Typescript, Docker, PostgreSQL, React.js, Nest.js, Docker, Github Actions CI, Jira, Github, Git, Linux, Nginx.
 
 <!-- ### Footer
