@@ -109,11 +109,18 @@ Times Idiomas - Advanced English Course
 - Entry-Level Backend Software Engineer: Responsible for the Development of several API's
 - Skills: Node.js, Docker, MongoDB, Typescript, NestJS, Axios
 
-`2022-April`
+`2022-2024`
 <a href="https://foursys.com.br/" target="_blank">Foursys</a>
 
 - Mid-Level Backend Software Engineer on Bradesco Bank's team: Responsible for the development of several API's.
 - Skills: Docker, Node.js, Typescript, Axios, express
+
+`2024-Now`
+<a href="http://naxtool.com.br" target="_blank">Naxtool Sistemas</a>
+
+- Tech Lead and Fullstack Software Engineer: Responsible for the development of the [Concilia Pix project](http://conciliapix.com/).
+
+- Skills: Node.js, Typescript, Docker, PostgreSQL, React.js, Nest.js, Docker, Github Actions CI, Jira, Github, Git, Linux, Nginx.
 
 <!-- ### Footer
 
