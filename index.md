@@ -91,31 +91,37 @@ IFBA Campus Camaçari - Bachelor's degree in ABI in computing
 ## Experience
 
 `2017-2018`
+<a href="https://portal.ifba.edu.br/camacari" target="_blank">IFBA Campus Camaçari</a>
 
 - Intern: Responsible for the development of the IT Graduation Site
 - Skills: PHP programming language, HTML, CSS and Javascript
 
 `2018-2019`
+<a href="http://clariontec.com.br" target="_blank">Clariontec Sistemas</a>
 
 - Intern: Responsible for the development of several applications (backend, frontend, desktop, etc).
 - Skills: PHP Programming language, HTML, CSS, Javascript, MySQL
 
 `2019-2021`
+<a href="http://clariontec.com.br" target="_blank">Clariontec Sistemas</a>
 
 - Entry-Level FullStack Software Engineer: Responsible for the development of several applications (backend, frontend, desktop, etc).
 - Skills: PHP Programming Language, HTML, CSS, Javascript, Node.js, Axios, MySQL, C#, .Net, PostgreSQL, Docker.
 
 `2021-2022`
+<a href="https://www.linkedin.com/company/blockhub-builders" target="_blank">Blockhub Tecnologia</a>
 
 - Entry-Level Backend Software Engineer: Responsible for the Development of several API's
 - Skills: Node.js, Docker, MongoDB, Typescript, NestJS, Axios
 
 `2022-2024`
+<a href="https://foursys.com.br/" target="_blank">Foursys</a>
 
 - Mid-Level Backend Software Engineer on Bradesco Bank's team: Responsible for the development of several API's.
 - Skills: Docker, Node.js, Typescript, Axios, express
 
 `2024-Now`
+<a href="http://naxtool.com.br" target="_blank">Naxtool Sistemas</a>
 
 - Tech Lead and Fullstack Software Engineer: Responsible for the development of the [Concilia Pix project](http://conciliapix.com/).
 - Skills: Node.js, Typescript, Docker, PostgreSQL, React.js, Nest.js, Docker, Github Actions CI, Jira, Github, Git, Linux, Nginx.
