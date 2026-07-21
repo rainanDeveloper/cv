@@ -70,12 +70,6 @@ Portuguese: Native
 
 English: Understands Well, Speaks Well, Reads Well, Writes Well
 
-## Personal Projects
-
-: MVP of a sending message application with asymmetric encryption and diffie-hellman implementation.
-
-: Basic Context Logger library made in Node.js
-
 ## Education
 
 `2015-2018`
